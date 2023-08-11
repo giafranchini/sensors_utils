@@ -3,7 +3,7 @@
 <package format="3">
   <name>imu_utils</name>
   <version>0.0.0</version>
-  <description>Collection of utils to manipulate sensors_msgs/Imu</description>
+  <description>A collection of utils to manipulate imu sensor_msgs</description>
   <maintainer email="giacomo.franchini@polito.it">user</maintainer>
   <license>TODO: License declaration</license>
 
