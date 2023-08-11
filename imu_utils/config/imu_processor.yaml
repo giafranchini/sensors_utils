@@ -1,0 +1,6 @@
+imu_processor:
+  ros__parameters:
+    orientation_covariance: [100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+    angular_velocity_covariance: [100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+    linear_acceleration_covariance: [100.0, 0.0, 0.0,9990.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+    compute_covariance: False
